@@ -1,2 +1,1 @@
-# Book-Recommend-System
-# Book Recommendation System  A basic Book Recommendation System developed to suggest books to users based on similarity and preferences.   This project demonstrates the use of basic machine learning concepts and data processing techniques.
+Book Recommendation System  A basic Book Recommendation System developed to suggest books to users based on similarity and preferences.   This project demonstrates the use of basic machine learning concepts and data processing techniques.
